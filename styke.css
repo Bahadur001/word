@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+ background-color: rgb(147, 123, 123);
+ background-position: center;
+
+}
+
+.qwerty {
+    background-image: url(ilan2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+    width: 1500px; 
+    height: 1100px; 
+    display: block;
+    margin-top: 0;
+    padding-top: 50px;
+}
+
+.ret{
+    color: white;
+    font-family:  'madimi one' , sans-serif;
+    font-size: 3cap;
+}
+.rey{
+    font-size: 5cap;
+    color: red;
+    font-family: 'madimi one' , sans-serif;
+}
+.red{
+    font-size: 2cap;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    position: relative;
+    padding: 50px;
+    margin: 50px;
+}
+.easy{
+    color: blue;
+    text-decoration: none;
+
+}
+.easy :hover , button:active{
+    background-color: rgb(3, 8, 8)}
+    .hard{
+        color: brown;
+        text-decoration: none;
+        background-color: rgb(134, 134, 188);
+    border-radius: 30px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 15px 25px;
+    }
+    .hard:hover , button:active{
+        background-color: aqua;a};
+        .container {
+            width: 1000px;
+            height: 1000px; 
+            text-align: center; 
+            line-height: 300px; 
+            padding-top: 500px;
+        }
+        .container img {
+            display: block; 
+            margin: 0 auto; 
+            padding: 0;
+            width: 500px;
+            height: 400px;
+            
+        }
+        .word{
+            font-size: 7cap;
+            text-align: center;
+            font-family: 'madimi one' , sans-serif;
+            color: rgb(154, 21, 63);
+        }
+        .black{
+            font-size: 3cap;
+            text-align-last: ;
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(183, 213, 147);
+        }
+        .mor{
+            font-size: 7cap;
+            text-align: center;
+            font-family: 'madimi one' , sans-serif;
+            color: rgb(154, 21, 63);
+        }
+        .bor{
+            font-size: 3cap;
+            text-align-last: ;
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(183, 213, 147);
+        }
+        .you {
+            width: 1000px; 
+            height: 1000px;
+            text-align: center;
+            line-height: 100px; 
+        
+        }
+        .you img {
+            display: block; 
+            margin: 0 auto;
+            width: 500px;
+            height: 300px;
+        }
